@@ -4,7 +4,7 @@
      Replace everything inside [ ] with your own info.
      ============================================================ -->
 
-# Hi, I'm Adrian 👋
+# Hi, I'm Adrian Sido👋
 
 <!-- One-liner about who you are. Keep it short and genuine. -->
 I'm a 3rd-year CS student at Angeles University Foundation, passionate about
@@ -17,10 +17,10 @@ Software Engineering and Data Science.
      You can also mention hobbies — it makes your profile feel human. -->
 ## About me
 
-- 🎓 Studying [Degree] at [University]
-- 💻 Currently learning [language or framework]
-- 🌱 Building my first [type of project]
-- ⚡ Fun fact: [something interesting about you]
+- 🎓 Studying BSCS at Angeles University Foundation
+- 💻 Currently learning QML. 
+- 🌱 Building my first thesis project
+- ⚡ Fun fact: I love ramen
 
 ---
 
